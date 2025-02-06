@@ -1,2 +1,2 @@
-lmsysorg/sglang:v0.4.2.post2-cu118
+lmsysorg/sglang:v0.4.2.post2-cu121
 
