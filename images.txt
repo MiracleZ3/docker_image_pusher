@@ -1,1 +1,1 @@
-lmsysorg/sglang:v0.4.3.post4-cu118
+gpustack/gpustack
