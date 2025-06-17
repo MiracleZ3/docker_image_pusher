@@ -1,1 +1,1 @@
-gpustack/gpustack
+gpustack/gpustack:latest-dcu
