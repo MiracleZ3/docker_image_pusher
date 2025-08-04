@@ -1,1 +1,1 @@
-lmsysorg/sglang:latest
+lvjiajin.cn:8500/dcu/lvjj/base/custom:autobench-fixpy-ip
