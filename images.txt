@@ -1,1 +1,1 @@
-lmsysorg/sglang:latest
+lmsysorg/sglang:v0.5.3rc1-cu128-b200
