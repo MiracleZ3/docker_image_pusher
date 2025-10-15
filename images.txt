@@ -1,1 +1,1 @@
-hiyouga/llamafactory:latest
+lmsysorg/sglang:latest
